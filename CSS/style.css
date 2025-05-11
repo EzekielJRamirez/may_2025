@@ -1,4 +1,4 @@
-h1 {
+/* h1 {
     color: red;
     font-size: 2em;
 }
@@ -16,4 +16,14 @@ div {
 button {
     border-radius: 100px;
     background-color: darkgrey;
+} */
+
+
+h1 {
+    color: red;
+    font-size: 2em;
+}
+
+p {
+    color: green
 }
