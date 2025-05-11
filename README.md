@@ -11,3 +11,11 @@ read on selectors
 what is the diff between padding and margins???
 
 - what else makes space???
+
+Getting a weird error with the every nth element selector on div.css
+
+- want to try for only odds/evens but the first div act semi indepent from the 3 divs right after it
+
+TODO
+
+- fix the every nth div element selector

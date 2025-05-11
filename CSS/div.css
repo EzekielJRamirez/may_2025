@@ -8,4 +8,14 @@ div {
 
     padding: 20px       20px;
     /*      top/bottom  left/right  */
+
+    border: double 10px #404040;
+}
+
+/* div.round {
+    border-radius: 30px;
+} */
+
+div:nth-child(2n-1) {
+    border-radius: 30px;
 }
