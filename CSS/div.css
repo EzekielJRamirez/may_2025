@@ -1,3 +1,11 @@
 div {
     background-color: lightslategray;
+    /* padding: 30px 10px   30px 10px; */
+    /*          top  right  bottom  left*/
+    
+    /* padding: 20px 5px         20px; */
+    /*          top  left/right  bottom*/
+
+    padding: 20px       20px;
+    /*      top/bottom  left/right  */
 }
