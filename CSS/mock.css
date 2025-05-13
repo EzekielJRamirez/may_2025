@@ -1,0 +1,9 @@
+div {
+    background-color: #808080;
+
+    width: 940px;
+}
+
+ul, ol {
+    list-style: none;
+}
