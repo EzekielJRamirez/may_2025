@@ -20,3 +20,4 @@ TODO
 
 - [ ] fix the every nth div element selector
 - [ ] review project site
+- [ ] check how the margins are messing with the style elements

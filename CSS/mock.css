@@ -1,9 +1,15 @@
 div {
     background-color: #808080;
 
-    width: 940px;
+    width: 946px;
+
+    margin: 0 auto;
+
+    padding: 0 7px
 }
 
 ul, ol {
     list-style: none;
+
+    margin: 0px;
 }
