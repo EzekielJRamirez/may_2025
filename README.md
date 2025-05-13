@@ -18,4 +18,4 @@ Getting a weird error with the every nth element selector on div.css
 
 TODO
 
-- fix the every nth div element selector
+[] fix the every nth div element selector
